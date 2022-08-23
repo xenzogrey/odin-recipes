@@ -1,0 +1,39 @@
+* {
+    color: whitesmoke;
+}
+
+.indexbackground {
+    background-color: rgb(91, 91, 181);
+}
+.test {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width:30%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.smoothie-name {
+    color: whitesmoke;
+    text-align: center;
+    list-style: none;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.fountain {
+    background-color: lightblue;
+}
+
+.cheeky {
+    background-color:pink;
+}
+
+.nature {
+    background-color:rgb(220, 188, 127)
+}
