@@ -1,5 +1,6 @@
 * {
     color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .indexbackground {
@@ -26,14 +27,40 @@ img {
     padding-bottom: 2%;
 }
 
+h1 {
+    font-size:xx-large;
+}
+
+h2,
+h3,
+h4 {
+   font-size: large; 
+   padding-left: 5%;
+}
+
+.descrip {
+    padding-left: 5%;
+}
+
+.ingred {
+    list-style: none;
+}
+
+.steps {
+    list-style: none;
+}
+
 .fountain {
     background-color: lightblue;
+    font-size: small;
 }
 
 .cheeky {
     background-color:pink;
+    font-size: small;
 }
 
 .nature {
-    background-color:rgb(220, 188, 127)
+    background-color:rgb(220, 188, 127);
+    font-size: small;
 }
